@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# directories
+Unity-2.6.1

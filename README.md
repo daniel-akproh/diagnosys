@@ -1,4 +1,23 @@
 # DiagnoSysCLI
+
+<p align="center">
+  <a href="https://github.com/daniel-akproh/diagnosys">
+    <img src="installer/logo/logo.ico" alt="" style="width:200px;" />
+  </a>
+</p>
+
+<div align="center">
+
+_DiagnoSys: A CLI tool for your system's health_
+
+![License](https://img.shields.io/badge/License-GNU-green.svg)
+![GitHub language](https://img.shields.io/github/languages/top/daniel-akproh/diagnosys)
+![GitHub last commit](https://img.shields.io/github/last-commit/daniel-akproh/diagnosys)
+![GitHub issues](https://img.shields.io/github/issues/daniel-akproh/diagnosys)
+
+
+</div>
+
 DiagnoSysCLI is a lightweight Windows-based command-line tool designed to gather key system diagnostics and present them
 in a clear and readable format. It is used to check for system health, troubleshooting issues
 and/or generating system reports without needing GUI tools.
